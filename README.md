@@ -8,10 +8,10 @@
 
 - 🌱 I’m currently learning **Angular,React,Spring,Nodejs**
 
-- 📫 How to reach me [![Mail](https://img.shields.io/badge/-kavindachamod100@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:kavindachamod100@gmail.com)
+- 📫 How to reach me <br>[![Mail](https://img.shields.io/badge/-kavindachamod100@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:kavindachamod100@gmail.com)
 
 
-## Reach me
+## Socials
 <p>
     <a href="www.linkedin.com/in/chamod-kavinda-70271a266" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
