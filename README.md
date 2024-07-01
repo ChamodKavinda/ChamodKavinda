@@ -6,7 +6,7 @@
 <h4>Here, you'll find a curated collection of my projects, code snippets, and insights into my programming journey. From web development to machine learning, I'm passionate about exploring diverse technologies and pushing the boundaries of what's possible.<br>I love diving into new technologies and exploring innovative solutions to real-world problems.I'm always excited to expand my knowledge and skill set.</h4>
 
 
-- 🌱 I’m currently learning **Angular,React,Spring,Nodejs**
+- 🌱 I’m currently learning **Spring boot,React,nodeJS**
 
 - 📫 How to reach me <br>[![Mail](https://img.shields.io/badge/-kavindachamod100@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:kavindachamod100@gmail.com)
 
