@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Chamod</h1>  ![](https://komarev.com/ghpvc/?username=ChamodKavinda&color=green)
+<h1>Hey 👋, I'm Chamod</h1> 
 <h3>I'm self learner and always do my best for technology</h3>
 
 
